@@ -91,5 +91,4 @@ let words = [
         word: "library",
         hint: "Place containing collection of books"
     },
-   
 ]
