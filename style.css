@@ -13,6 +13,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   background: black;
+  background-color: black;
 }
 .container {
   width: 440px;
