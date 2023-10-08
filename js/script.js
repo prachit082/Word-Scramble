@@ -85,4 +85,3 @@ document.addEventListener("DOMContentLoaded", function () {
   bgElement.style.backgroundImage = `url(${randomImage})`;
 });
 
-document.addEventListener("DOMContentLoaded", initGame);
