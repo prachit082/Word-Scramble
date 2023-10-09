@@ -4,7 +4,7 @@
 If you don’t know, Word Scramble is a game where the letters that can make a meaningful word are shuffled or scrambled randomly, and players have to find out the correct word using those random letters.
 
 ## Preview and Summary
-[**CLICK HERE TO PLAY**](https://prachit082.github.io/Word-Scramble/)
+[**CLICK HERE TO PLAY**](https://wordscramble.pages.dev/)
 
 In my game, as you have seen in the preview, there is a hint too that helps the user to find the correct word easily. 
 Players have to find the correct word in the given time which is 30 seconds. 
