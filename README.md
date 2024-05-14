@@ -3,6 +3,8 @@
 
 If you don’t know, Word Scramble is a game where the letters that can make a meaningful word are shuffled or scrambled randomly, and players have to find out the correct word using those random letters.
 
+If you like this, then feel free to give it a star.⭐
+
 ## Preview and Summary
 [**CLICK HERE TO PLAY**](https://wordscramble.pages.dev/)
 
